@@ -1,0 +1,7 @@
+name: pure
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - python=3.9
+  - pandas
