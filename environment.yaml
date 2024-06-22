@@ -5,3 +5,5 @@ dependencies:
   - ipykernel
   - python=3.9
   - pandas
+  - openai
+  - python-dotenv
