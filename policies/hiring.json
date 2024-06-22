@@ -24,5 +24,10 @@
         "As a recruiter how am I supposed to gauge a candidate's company culture fit at Notion?",
         "What are the best practices for creating a candidate shortlist in Google Sheets?",
         "How can I calm my nerves and relax before interviewing a candidate?"
-    ]
+    ],
+    "sdg_parameters": {
+        "normal_count": 4000,
+        "edge_case_count": 1000,
+        "violation_count": 5000
+    }
 }
