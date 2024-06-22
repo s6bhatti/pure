@@ -7,3 +7,11 @@ dependencies:
   - pandas
   - openai
   - python-dotenv
+  - pytorch
+  - pytorch-cuda=12.1
+  - conda-forge::transformers
+  - datasets
+  - wandb
+  - scikit-learn
+  - tqdm
+  - ipywidgets

@@ -26,8 +26,9 @@
         "How can I calm my nerves and relax before interviewing a candidate?"
     ],
     "sdg_parameters": {
-        "normal_count": 4000,
-        "edge_case_count": 1000,
-        "violation_count": 5000
+        "anthropic_count": 4000,
+        "jigsaw_count": 4000,
+        "edge_case_count": 2000,
+        "violation_count": 10000
     }
 }
